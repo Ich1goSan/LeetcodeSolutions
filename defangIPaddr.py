@@ -1,2 +1,2 @@
 def defangIPaddr(self, address: str) -> str:
-        return address.replace(".","[.]")
+    return address.replace(".","[.]")
